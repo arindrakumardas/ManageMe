@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageMe", "ManageMe\ManageMe.csproj", "{11a71ab0-8cac-4760-8f50-6019aa60ca45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A71AB0-8CAC-4760-8F50-6019AA60CA45}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
